@@ -1,1 +1,1 @@
-# Bash Scripting
+# Scripting Playground
