@@ -1,1 +1,1 @@
-# bash-scripting
+# Bash Scripting
